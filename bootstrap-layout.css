@@ -1,0 +1,8 @@
+*{  box-sizing: border-box;}
+.container {
+  background-color: lightblue;
+  margin: 0 auto;
+}
+body {
+  background-color: darkgray;
+}
